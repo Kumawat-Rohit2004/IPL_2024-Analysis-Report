@@ -1,0 +1,75 @@
+id,date,team1,team2,toss_winner,decision,first_score,first_wkts,second_score,second_wkts,winner,winning_margin,player_of_the_match,most_runs,most_wkts
+1,"March 22,2024",Royal Challengers Bengaluru,Chennai Super Kings,RCB,Bat,173,6,176,4,Chennai Super Kings,6 WICKETS,Mustafizur Rahman,Anuj Rawat,Mustafizur Rahman
+2,"March 23,2024",Delhi Capitals,Punjab Kings,PBKS,Field,174,9,177,6,Punjab Kings,4 WICKETS,Sam Curran,Sam Curran,Kuldeep Yadav
+3,"March 23,2024",Kolkata Knight Riders,Sunrisers Hyderabad,SRH,Field,208,7,204,7,Kolkata Knight Riders,4 RUNS,Andre Russell,Andre Russell,T Natarajan
+4,"March 24,2024",Rajasthan Royals,Lucknow Super Giants,RR,Bat,193,4,173,6,Rajasthan Royals,20 RUNS,Sanju Samson,Sanju Samson,Trent Boult
+5,"March 24,2024",Gujarat Titans,Mumbai Indians,MI,Field,168,6,162,9,Gujarat Titans,6 RUNS,Sai Sudharsan,Dewald Brevis,Jasprit Bumrah
+6,"March 25,2024",Punjab Kings,Royal Challengers Bengaluru,RCB,Field,176,6,178,6,Royal Challengers Bengaluru,4 WICKETS,Virat Kohli,Virat Kohli,Harpreet Brar
+7,"March 26,2024",Chennai Super Kings,Gujarat Titans,GT,Field,206,6,143,8,Chennai Super Kings,63 RUNS,Shivam Dube,Shivam Dube,Tushar Deshpande
+8,"March 27,2024",Sunrisers Hyderabad,Mumbai Indians,MI,Field,277,3,246,5,Sunrisers Hyderabad,31 RUNS,Abhishek Sharma,Heinrich Klaasen,Pat Cummins
+9,"March 28,2024",Rajasthan Royals,Delhi Capitals,DC,Field,185,5,173,5,Rajasthan Royals,12 RUNS,Riyan Parag,Riyan Parag,Yuzvendra Chahal
+10,"March 29,2024",Royal Challengers Bengaluru,Kolkata Knight Riders,KKR,Field,182,6,186,3,Kolkata Knight Riders,7 WICKETS,Sunil Narine,Virat Kohli ,Andre Russell
+11,"March 30,2024",Lucknow Super Giants,Punjab Kings,LSG,Bat,199,8,178,5,Lucknow Super Giants,21 RUNS,Mayank Yadav,Shikhar Dhawan,Mayank Yadav
+12,"March 31,2024",Sunrisers Hyderabad,Gujarat Titans,SRH,Bat,162,8,168,3,Gujarat Titans,7 WICKETS,Mohit Sharma,Sai Sudharsan,Mohit Sharma
+13,"March 31,2024",Delhi Capitals,Chennai Super Kings,DC,Bat,191,5,171,6,Delhi Capitals,20 RUNS,Khaleel Ahmed,Jos Buttler,Mukesh Kumar
+14,"April 1,2024",Mumbai Indians,Rajasthan Royals,RR,Field,125,9,127,4,Rajasthan Royals,6 WICKETS,Trent Boult,Riyan Parag ,Yuzvendra Chahal
+15,"April 2,2024",Lucknow Super Giants,Royal Challengers Bengaluru,RCB,Field,181,5,153,10,Lucknow Super Giants,28 RUNS,Mayank Yadav,Quinton de Kock,Mayank Yadav
+16,"April 3,2024",Kolkata Knight Riders,Delhi Capitals,KKR,Bat,272,7,166,10,Kolkata Knight Riders,106 RUNS,Sunil Narine,Sunil Narine,Vaibhav Arora
+17,"April 4,2024",Gujarat Titans,Punjab Kings,PBKS,Field,199,4,200,7,Punjab Kings,3 WICKETS,Shashank Singh,Shubman Gill,Noor Ahmad
+18,"April 5,2024",Chennai Super Kings,Sunrisers Hyderabad,SRH,Field,165,5,166,4,Sunrisers Hyderabad,6 WICKETS,Abhishek Sharma,Aiden Markram,Moeen Ali
+19,"April 6,2024",Royal Challengers Bengaluru,Rajasthan Royals,RR,Field,183,3,189,4,Rajasthan Royals,6 WICKETS,Jos Buttler,Virat Kohli,Reece Topley
+20,"April 7,2024",Mumbai Indians,Delhi Capitals,DC,Field,234,5,205,8,Mumbai Indians,29 RUNS,Romario Shepherd,Tristan Stubbs ,Gerald Coetzee
+21,"April 7,2024",Lucknow Super Giants,Gujarat Titans,LSG,Bat,163,5,130,10,Lucknow Super Giants,33 RUNS,Yash Thakur,Marcus Stoinis,Yash Thakur
+22,"April 8,2024",Kolkata Knight Riders,Chennai Super Kings,CSK,Field,137,9,141,3,Chennai Super Kings,7 WICKETS,Ravindra Jadeja,Ruturaj Gaikwad,Ravindra Jadeja
+23,"April 9,2024",Sunrisers Hyderabad,Punjab Kings,PBKS,Field,182,9,180,6,Sunrisers Hyderabad,2 RUNS,Nitish Kumar Reddy,Nitish Kumar Reddy,Arshdeep Singh
+24,"April 10,2024",Rajasthan Royals,Gujarat Titans,GT,Field,196,3,199,7,Gujarat Titans,3 WICKETS,Rashid Khan,Riyan Parag,Kuldeep Sen
+25,"April 11,2024",Royal Challengers Bengaluru,Mumbai Indians,MI,Field,196,8,199,3,Mumbai Indians,7 WICKETS,Jasprit Bumrah,Ishan Kishan,Jasprit Bumrah
+26,"April 12,2024",Lucknow Super Giants,Delhi Capitals,LSG,Bat,167,7,170,4,Delhi Capitals,6 WICKETS,Kuldeep Yadav,Ayush Badoni,Kuldeep Yadav
+27,"April 13,2024",Punjab Kings,Rajasthan Royals,RR,Field,147,8,152,7,Rajasthan Royals,3 WICKETS,Shimron Hetmyer,Yashasvi Jaiswal ,Kagiso Rabada
+28,"April 14,2024",Lucknow Super Giants,Kolkata Knight Riders,KKR,Field,161,7,162,2,Kolkata Knight Riders,8 WICKETS,Phil Salt,Phil Salt,Mitchell Starc
+29,"April 14,2024",Chennai Super Kings,Mumbai Indians,MI,Field,206,4,186,6,Chennai Super Kings,20 RUNS,Matheesha Pathirana,Rohit Sharma,Matheesha Pathirana
+30,"April 15,2024",Sunrisers Hyderabad,Royal Challengers Bengaluru,RCB,Field,187,3,262,7,Sunrisers Hyderabad,25 RUNS,Travis Head,Travis Head,Pat Cummins
+31,"April 16,2024",Kolkata Knight Riders,Rajasthan Royals,RR,Field,223,6,224,8,Rajasthan Royals,2 WICKETS,Jos Buttler,Sunil Narine ,Sunil Narine 
+32,"April 17,2024",Gujarat Titans,Delhi Capitals,DC,Field,89,10,92,4,Delhi Capitals,6 WICKETS,Rishabh Pant,Rashid Khan ,Mukesh Kumar
+33,"April 18,2024",Mumbai Indians,Punjab Kings,PBKS,Field,192,7,183,10,Mumbai Indians,9 RUNS,Jasprit Bumrah,Suryakumar Yadav,Jasprit Bumrah
+34,"April 19,2024",Chennai Super Kings,Lucknow Super Giants,LSG,Field,176,6,180,2,Lucknow Super Giants,8 WICKETS,KL Rahul,KL Rahul,Krunal Pandya
+35,"April 20,2024",Sunrisers Hyderabad,Delhi Capitals,DC,Field,266,7,199,10,Sunrisers Hyderabad,67 RUNS,Travis Head,Travis Head,T Natarajan
+36,"April 21,2024",Kolkata Knight Riders,Royal Challengers Bengaluru,RCB,Field,222,6,221,10,Kolkata Knight Riders,1 RUN,Andre Russell,Will Jacks ,Andre Russell
+37,"April 21,2024",Punjab Kings,Gujarat Titans,PBKS,Bat,142,10,146,7,Gujarat Titans,3 WICKETS,Sai Kishore,Rahul Tewatia,Sai Kishore
+38,"April 22,2024",Mumbai Indians,Rajasthan Royals,MI,Bat,179,9,183,1,Rajasthan Royals,9 WICKETS,Sandeep Sharma,Yashasvi Jaiswal ,Sandeep Sharma
+39,"April 23,2024",Chennai Super Kings,Lucknow Super Giants,LSG,Field,210,4,213,4,Lucknow Super Giants,6 WICKETS,Marcus Stoinis,Marcus Stoinis,Matheesha Pathirana
+40,"April 24,2024",Delhi Capitals,Gujarat Titans,GT,Field,224,4,220,8,Delhi Capitals,4 RUNS,Rishabh Pant,Rishabh Pant,Sandeep Warrier
+41,"April 25,2024",Royal Challengers Bengaluru,Sunrisers Hyderabad,RCB,Bat,206,7,171,8,Royal Challengers Bengaluru,35 RUNS,Rajat Patidar,Virat Kohli,Jaydev Unadkat
+42,"April 26,2024",Kolkata Knight Riders,Punjab Kings,PBKS,Field,261,6,262,2,Punjab Kings,8 WICKETS,Jonny Bairstow,Jonny Bairstow,Arshdeep Singh
+43,"April 27,2024",Delhi Capitals,Mumbai Indians,MI,Field,257,4,247,9,Delhi Capitals,10 RUNS,Jake Fraser-McGurk,Jake Fraser-McGurk,Rasikh Salam
+44,"April 27,2024",Lucknow Super Giants,Rajasthan Royals,RR,Field,196,5,199,3,Rajasthan Royals,7 WICKETS,Sanju Samson,KL Rahul,Sandeep Sharma
+45,"April 28,2024",Gujarat Titans,Royal Challengers Bengaluru,RCB,Field,200,3,206,1,Royal Challengers Bengaluru,9 WICKETS,Will Jacks,Will Jacks,Swapnil Singh
+46,"April 28,2024",Chennai Super Kings,Sunrisers Hyderabad,SRH,Field,212,3,134,10,Chennai Super Kings,78 RUNS,Ruturaj Gaikwad,Ruturaj Gaikwad,Tushar Deshpande
+47,"April 29,2024",Delhi Capitals,Kolkata Knight Riders,DC,Bat,153,9,157,3,Kolkata Knight Riders,7 WICKETS,Varun Chakravarthy,Phil Salt,Varun Chakravarthy
+48,"April 30,2024",Mumbai Indians,Lucknow Super Giants,LSG,Field,144,7,145,6,Lucknow Super Giants,4 WICKETS,Marcus Stoinis,Marcus Stoinis,Hardik Pandya
+49,"May 1,2024",Chennai Super Kings,Punjab Kings,PBKS,Field,162,7,163,3,Punjab Kings,7 WICKETS,Harpreet Brar,Ruturaj Gaikwad,Rahul Chahar
+50,"May 2,2024",Sunrisers Hyderabad,Rajasthan Royals,SRH,Bat,201,3,200,7,Sunrisers Hyderabad,1 RUN,Bhuvneshwar Kumar,Riyan Parag ,Bhuvneshwar Kumar
+51,"May 3,2024",Kolkata Knight Riders,Mumbai Indians,MI,Field,169,10,145,10,Kolkata Knight Riders,24 RUNS,Venkatesh Iyer,Venkatesh Iyer,Mitchell Starc
+52,"May 4,2024",Gujarat Titans,Royal Challengers Bengaluru,RCB,Field,147,10,152,6,Royal Challengers Bengaluru,4 WICKETS,Mohammed Siraj,Faf du Plessis,Josh Little
+53,"May 5,2024",Chennai Super Kings,Punjab Kings,PBKS,Field,167,9,139,9,Chennai Super Kings,28 RUNS,Ravindra Jadeja,Ravindra Jadeja,Ravindra Jadeja
+54,"May 5,2024",Kolkata Knight Riders,Lucknow Super Giants,LSG,Field,235,6,137,10,Kolkata Knight Riders,98 RUNS,Sunil Narine,Sunil Narine,Harshit Rana
+55,"May 6,2024",Sunrisers Hyderabad,Mumbai Indians,MI,Field,173,8,174,3,Mumbai Indians,7 WICKETS,Suryakumar Yadav,Suryakumar Yadav,Hardik Pandya
+56,"May 7,2024",Delhi Capitals,Rajasthan Royals,RR,Field,221,8,201,8,Delhi Capitals,20 RUNS,Kuldeep Yadav,Sanju Samson,Ravichandran Ashwin
+57,"May 8,2024",Lucknow Super Giants,Sunrisers Hyderabad,LSG,Bat,165,4,167,0,Sunrisers Hyderabad,10 WICKETS,Travis Head,Travis Head,Bhuvneshwar Kumar
+58,"May 9,2024",Royal Challengers Bengaluru,Punjab Kings,PBKS,Field,241,7,181,10,Royal Challengers Bengaluru,60 RUNS,Virat Kohli,Virat Kohli,Harshal Patel
+59,"May 10,2024",Gujarat Titans,Chennai Super Kings,CSK,Field,231,3,196,8,Gujarat Titans,35 RUNS,Shubman Gill,Shubman Gill,Mohit Sharma
+60,"May 11,2024",Kolkata Knight Riders,Mumbai Indians,MI,Field,157,7,139,8,Kolkata Knight Riders,18 RUNS,Varun Chakravarthy,Venkatesh Iyer,Varun Chakravarthy
+61,"May 12,2024",Rajasthan Royals,Chennai Super Kings,RR,Bat,141,5,145,5,Chennai Super Kings,5 WICKETS,Simarjeet Singh,Riyan Parag,Simarjeet Singh
+62,"May 12,2024",Royal Challengers Bengaluru,Delhi Capitals,DC,Field,187,9,140,10,Royal Challengers Bengaluru,47 RUNS,Cameron Green,Axar Patel,Yash Dayal
+63,"May 13,2024",Gujarat Titans,Kolkata Knight Riders,No Toss,None,0,0,0,0,Abandoned,MATCH ABANDONED,None,None,None
+64,"May 14,2024",Delhi Capitals,Lucknow Super Giants,LSG,Field,208,4,189,9,Delhi Capitals,19 RUNS,Ishant Sharma,Nicholas Pooran,Ishant Sharma
+65,"May 15,2024",Rajasthan Royals,Punjab Kings,RR,Bat,144,9,145,5,Punjab Kings,5 WICKETS,Sam Curran,Sam Curran,Rahul Chahar
+66,"May 16,2024",Sunrisers Hyderabad,Gujarat Titans,No Toss,None,0,0,0,0,Abandoned,MATCH ABANDONED,None,None,None
+67,"May 17,2024",Lucknow Super Giants,Mumbai Indians,MI,Field,214,6,196,6,Lucknow Super Giants,18 RUNS,Nicholas Pooran,Nicholas Pooran,Nuwan Thushara
+68,"May 18,2024",Royal Challengers Bengaluru,Chennai Super Kings,CSK,Field,218,5,191,7,Royal Challengers Bengaluru,27 RUNS,Faf du Plessis,Rachin Ravindra,Yash Dayal
+69,"May 19,2024",Punjab Kings,Sunrisers Hyderabad,PBKS,Bat,214,5,215,6,Sunrisers Hyderabad,4 WICKETS,Abhishek Sharma,Prabhsimran Singh,T Natarajan
+70,"May 19,2024",Rajasthan Royals,Kolkata Knight Riders,KKR,None,0,0,0,0,Abandoned,MATCH ABANDONED,None,None,None
+71,"May 21,2024",Sunrisers Hyderabad,Kolkata Knight Riders,SRH,Bat,159,10,164,2,Kolkata Knight Riders,8 WICKETS,Mitchell Starc,Shreyas Iyer,Mitchell Starc
+72,"May 22,2024",Royal Challengers Bengaluru,Rajasthan Royals,RR,Field,172,8,174,6,Rajasthan Royals,4 WICKETS,Ravichandran Ashwin,Yashasvi Jaiswal,Avesh Khan
+73,"May 24,2024",Sunrisers Hyderabad,Rajasthan Royals,RR,Field,175,9,139,7,Sunrisers Hyderabad,36 RUNS,Shahbaz Ahmed,Dhruv Jurel ,Shahbaz Ahmed
+74,"May 26,2024",Sunrisers Hyderabad,Kolkata Knight Riders,SRH,Bat,113,10,114,2,Kolkata Knight Riders,8 WICKETS,Mitchell Starc,Venkatesh Iyer,Andre Russell
