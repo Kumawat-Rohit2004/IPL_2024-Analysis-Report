@@ -11,7 +11,6 @@
 - [Dashboard Features](#-dashboard-features)
 - [Key Insights](#-key-insights)
 - [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
 - [Repository Structure](#-repository-structure)
 - [License](#-license)
 
@@ -210,18 +209,6 @@ The `IPL_2024_Analysis.pbix` report includes the following pages and visuals:
 
 ---
 
-## 🚀 Getting Started
-
-**Prerequisites:** [Power BI Desktop](https://www.microsoft.com/en-us/power-bi/desktop) (free, Windows only)
-
-1. **Clone or download** this repository to your local machine
-2. Ensure all **CSV files are in the same folder** as the `.pbix` file
-3. Open `IPL_2024_Analysis.pbix` in Power BI Desktop
-4. If prompted, **update the data source path** to point to your local CSV files
-5. Click **Home → Refresh** to load all data
-6. Explore the report using slicers, filters, and cross-highlights
-
----
 
 ## 📁 Repository Structure
 
